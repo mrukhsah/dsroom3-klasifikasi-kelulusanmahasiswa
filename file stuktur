@@ -1,0 +1,14 @@
+your-repo/
+│
+├── app.py                    # Streamlit app (copy code di atas)
+├── model_training.py         # Script training (script ini)
+├── requirements.txt          # Dependencies
+├── csv_Dataset_Mahasiswa_Kehadiran_Aktivitas_IPK.csv  # Dataset
+│
+├── decision_tree_model.pkl   # Model files (akan ter-generate)
+├── random_forest_model.pkl
+├── xgboost_model.pkl
+│
+├── confusion_matrices.png    # Visualizations (akan ter-generate)
+├── feature_importance.png
+└── model_comparison.png
